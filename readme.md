@@ -1,4 +1,4 @@
-# 🌩️ BTC Weather Radar
+# 🌩️ BitBarometer
 
 **Live Bitcoin price meets real-time weather radar.**  
 Because obviously you need to know if it's raining *and* if BTC is dumping at the same time.
