@@ -3,7 +3,7 @@
 **Live Bitcoin price meets real-time weather radar.**  
 Because obviously you need to know if it's raining *and* if BTC is dumping at the same time.
 
-👉 **Live Demo:** https://velle999.github.io/BTC-Weather-Radar/
+👉 **Live Demo:** [https://velle999.github.io/BitBarometer/]
 
 ---
 
